@@ -51,10 +51,17 @@ console.log("jeje");
 ![mi texto](https://elcomercio.pe/resizer/yHlVmeje9JdLEROBvNgsdoVpwRs=/1200x900/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/KRKOINCP7JGR7KWT4HNBDSJPDA.jpg "Rick")
 
 <!-- EXCLUSIVO PARA GITHUB -->
-# * [X] Task 1
+* [X] Task 1
 * [ ] Task 2
 * [ ] Task 3
 * [X] Task 4
+
+<!-- indicar un usuario (tendrá una notificación) -->
+@paquito
+
+<!-- EMOJIS -->
+:rage2:
+:no_entry_sign:
 
 
 
