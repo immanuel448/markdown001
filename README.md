@@ -27,7 +27,7 @@
 
 
 <!-- ENLACES -->
-[esto es lo que se muestra](https://www.youtube.com "JEJE")
+[link a YT](https://www.youtube.com "JEJE")
 
 <!-- CITAS -->
 >esto es una sita
